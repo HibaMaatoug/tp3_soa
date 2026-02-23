@@ -1,0 +1,45 @@
+{
+  "coord": {
+    "lon": 10.637,
+    "lat": 35.8254
+  },
+  "weather": [
+    {
+      "id": 802,
+      "main": "Clouds",
+      "description": "partiellement nuageux",
+      "icon": "03d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 14.88,
+    "feels_like": 13.49,
+    "temp_min": 14.88,
+    "temp_max": 14.88,
+    "pressure": 1022,
+    "humidity": 41,
+    "sea_level": 1022,
+    "grnd_level": 1017
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 6.17,
+    "deg": 240
+  },
+  "clouds": {
+    "all": 40
+  },
+  "dt": 1771577579,
+  "sys": {
+    "type": 1,
+    "id": 1193,
+    "country": "TN",
+    "sunrise": 1771567158,
+    "sunset": 1771607007
+  },
+  "timezone": 3600,
+  "id": 2464915,
+  "name": "Sousse",
+  "cod": 200
+}
